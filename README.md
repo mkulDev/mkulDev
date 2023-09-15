@@ -15,7 +15,7 @@ Welcome to my GitHub repository, where I document my coding journey and showcase
 - TailwindCSS / Nativewind: Streamlined UI development with utility-first CSS frameworks.
 
 ## Get in Touch
-I'm excited to connect with experienced developers, learn from their insights, and explore potential opportunities. Please feel free to reach out to me at [![Email](mkuldevelopment@gmail.com). I'm open to collaborations and guidance.
+I'm excited to connect with experienced developers, learn from their insights, and explore potential opportunities. Please feel free to reach out to me at [Email](mkuldevelopment@gmail.com). I'm open to collaborations and guidance.
 
 ## Exploring My Projects
 Take a look at my recent projects to see how I've been applying my skills. 
